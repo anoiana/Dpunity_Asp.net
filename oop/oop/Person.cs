@@ -47,7 +47,7 @@ namespace oop
             this.role=newRole;
         }
 
-        public void toString()
+        public virtual void  toString()
         {
             Console.WriteLine("Full name: " + this.name);
             Console.WriteLine("Age: " + this.age);
