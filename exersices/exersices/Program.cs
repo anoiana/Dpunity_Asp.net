@@ -121,7 +121,6 @@ namespace exersices
 
         }
 
-
         // function to reverse a text
         public static void ReveserText()
         {
@@ -263,7 +262,6 @@ namespace exersices
             }
         }
 
-
         // Show an array
         public static void ShowArray(int[] a)
         {
@@ -291,7 +289,6 @@ namespace exersices
                 arr[i] = temp;
             }
         }
-
 
     }
 

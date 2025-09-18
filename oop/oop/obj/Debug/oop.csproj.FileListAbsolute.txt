@@ -1,0 +1,7 @@
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\bin\Debug\oop.exe.config
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\bin\Debug\oop.exe
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\bin\Debug\oop.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\obj\Debug\oop.exe
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\oop\oop\obj\Debug\oop.pdb

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\oop\\oop\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|solutionrelative:oop\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\oop\\oop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|solutionrelative:oop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\oop\\oop\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|solutionrelative:oop\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\oop\\oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|solutionrelative:oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\oop\\oop\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F6487F-79A7-436F-B2C2-A6AB0B14732E}|oop\\oop.csproj|solutionrelative:oop\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentInterface.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\StudentInterface.cs",
+              "RelativeDocumentMoniker": "oop\\StudentInterface.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\StudentInterface.cs",
+              "RelativeToolTip": "oop\\StudentInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:10:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Teacher.cs",
+              "RelativeDocumentMoniker": "oop\\Teacher.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Teacher.cs",
+              "RelativeToolTip": "oop\\Teacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:20:03.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Student.cs",
+              "RelativeDocumentMoniker": "oop\\Student.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Student.cs",
+              "RelativeToolTip": "oop\\Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:59:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Person.cs",
+              "RelativeDocumentMoniker": "oop\\Person.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Person.cs",
+              "RelativeToolTip": "oop\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:51:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Test.cs",
+              "RelativeDocumentMoniker": "oop\\Test.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\oop\\oop\\Test.cs",
+              "RelativeToolTip": "oop\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:47:58.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
