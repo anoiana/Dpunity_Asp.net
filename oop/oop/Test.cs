@@ -17,10 +17,10 @@ namespace oop
             person.toString();
             Console.WriteLine("______________________________________________");
             Student st1 = new Student("Nguyen Van B", 20,"Student", 52200008, 10, 9 ,8);
-            st1.StudentProfile();
+            st1.toString();
             Console.WriteLine("______________________________________________");
             Teacher tea = new Teacher("Nguyen Van B", 32, "Teacher", 19000000);
-            tea.teacherProfile();
+            tea.toString();
             
         }
     }

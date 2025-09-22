@@ -1,0 +1,14 @@
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.exe.config
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.exe
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.exe
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.pdb
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.exe.config
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.exe
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\bin\Debug\Exercise_c#.pdb
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.exe
+E:\Dpunity_c#_\Dpunity_Asp.net\Exercise_c#\Exercise_c#\obj\Debug\Exercise_c#.pdb

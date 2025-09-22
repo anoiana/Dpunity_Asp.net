@@ -1,7 +1,0 @@
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\bin\Debug\exersices.exe.config
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\bin\Debug\exersices.exe
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\bin\Debug\exersices.pdb
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\obj\Debug\exersices.csproj.AssemblyReference.cache
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\obj\Debug\exersices.csproj.CoreCompileInputs.cache
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\obj\Debug\exersices.exe
-E:\Dpunity_c#_\Dpunity_C-_Asp.net\exersices\exersices\obj\Debug\exersices.pdb

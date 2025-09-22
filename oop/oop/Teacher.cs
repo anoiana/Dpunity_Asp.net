@@ -20,10 +20,11 @@ namespace oop
         public double getSalaries() { return salaries;}
         public void setSalaries(double salary) { this.salaries = salary; }
 
-     
-
-        public void teacherProfile() {
-            toString();
+        public override void toString()
+        {
+            Console.WriteLine("Full name: " + getName());
+            Console.WriteLine("Age: " + getAge());
+            Console.WriteLine("Role: " + getRole());
             Console.WriteLine("Salaries: " + this.salaries);
         }
     }
