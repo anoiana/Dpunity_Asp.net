@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "getAllEmployeesAsync",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "getEmployeeByIdAsync",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "editEmployeeByIdAsync",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "editEmployeeDto",
+        "Type": "RestfulApi_PostgreSql.Dto.EditEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "deleteEmployeeByIdAsync",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "addEmployeeAsync",
+    "RelativePath": "api/Employee/AddEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addEmployeeDto",
+        "Type": "RestfulApi_PostgreSql.Dto.AddEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulApi_PostgreSql.Controllers.EmployeeController",
+    "Method": "deleteEmployessAsync",
+    "RelativePath": "api/Employee/All",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EA5n243wlMzHAP0Ayt/qFfqMFXK63NOHTZSbrwq68ag=",
+  "Source": "RestfulApi_PostgreSql",
+  "BasePath": "_content/RestfulApi_PostgreSql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
