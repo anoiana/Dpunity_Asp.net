@@ -1,0 +1,15 @@
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\ProductMana.Domain.deps.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\ProductMana.Domain.runtimeconfig.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\ProductMana.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\ProductMana.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.AssemblyInfoInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.AssemblyInfo.cs
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.sourcelink.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\refint\ProductMana.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ProductMana.Domain.genruntimeconfig.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ref\ProductMana.Domain.dll

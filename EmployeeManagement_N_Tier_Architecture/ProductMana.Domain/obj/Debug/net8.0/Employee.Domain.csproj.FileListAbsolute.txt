@@ -1,0 +1,15 @@
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\Employee.Domain.deps.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\Employee.Domain.runtimeconfig.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\Employee.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\bin\Debug\net8.0\Employee.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.AssemblyInfoInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.AssemblyInfo.cs
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.sourcelink.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\refint\Employee.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\Employee.Domain.genruntimeconfig.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\EmployeeManagement_N_Tier_Architecture\ProductMana.Domain\obj\Debug\net8.0\ref\Employee.Domain.dll
