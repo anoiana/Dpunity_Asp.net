@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cViYuS8bYIFYksG8QaRvulvAufYiSvXHsHShLTBICrk=",
+  "Source": "EmployeeManagement.Presentation",
+  "BasePath": "_content/EmployeeManagement.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

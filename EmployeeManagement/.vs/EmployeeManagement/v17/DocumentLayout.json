@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|solutionrelative:employee.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.application\\dtos\\request\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|solutionrelative:employee.application\\dtos\\request\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|solutionrelative:employee.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.application\\dtos\\response\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|solutionrelative:employee.application\\dtos\\response\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93565849-4B15-43B2-8180-CBC8A444C411}|Employee.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.infrastructure\\repositoties\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93565849-4B15-43B2-8180-CBC8A444C411}|Employee.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employee.infrastructure\\repositoties\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93565849-4B15-43B2-8180-CBC8A444C411}|Employee.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.infrastructure\\datas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93565849-4B15-43B2-8180-CBC8A444C411}|Employee.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employee.infrastructure\\datas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.application\\dtos\\request\\editemployeedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|solutionrelative:employee.application\\dtos\\request\\editemployeedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|solutionrelative:employee.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E5FDC1-CA95-45CB-8A71-310F1C8ED9B8}|Employee.Application\\EmployeeManagement.Application.csproj|solutionrelative:employee.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D250130-4D7A-4D89-A6D6-1E85523CAF6F}|Employee.Domain\\EmployeeManagement.Domain.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250130-4D7A-4D89-A6D6-1E85523CAF6F}|Employee.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employee.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D250130-4D7A-4D89-A6D6-1E85523CAF6F}|Employee.Domain\\EmployeeManagement.Domain.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250130-4D7A-4D89-A6D6-1E85523CAF6F}|Employee.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employee.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|e:\\dpunity_c#_\\dpunity_c-_asp.net\\employeemanagement\\employee.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42700893-A3F9-41B9-8631-65F732DC272E}|Employee.Presentation\\EmployeeManagement.Presentation.csproj|solutionrelative:employee.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 370,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Presentation\\Program.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\Program.cs",
+              "RelativeToolTip": "Employee.Presentation\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:42:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Infrastructure\\Datas\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Datas\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Infrastructure\\Datas\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Datas\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:51:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Infrastructure\\Repositoties\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Repositoties\\EmployeeRepository.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Infrastructure\\Repositoties\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Repositoties\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:58:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Response\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Dtos\\Response\\EmployeeDto.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Response\\EmployeeDto.cs",
+              "RelativeToolTip": "Employee.Application\\Dtos\\Response\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:21:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee.Presentation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee.Presentation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:58:43.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Request\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Dtos\\Request\\AddEmployeeDto.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Request\\AddEmployeeDto.cs",
+              "RelativeToolTip": "Employee.Application\\Dtos\\Request\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:20:04.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditEmployeeDtocs.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Request\\EditEmployeeDtocs.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Dtos\\Request\\EditEmployeeDtocs.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Dtos\\Request\\EditEmployeeDtocs.cs",
+              "RelativeToolTip": "Employee.Application\\Dtos\\Request\\EditEmployeeDtocs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:21:06.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Employee.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:18:52.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Employee.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:19:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\Entities\\Employee.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Employee.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:28:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee.Presentation\\appsettings.json",
+              "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Presentation\\appsettings.json",
+              "RelativeToolTip": "Employee.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T07:44:07.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

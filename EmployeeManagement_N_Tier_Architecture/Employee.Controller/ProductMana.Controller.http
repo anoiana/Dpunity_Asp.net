@@ -1,6 +1,0 @@
-@ProductMana.Controller_HostAddress = http://localhost:5136
-
-GET {{ProductMana.Controller_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
