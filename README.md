@@ -1,29 +1,14 @@
 # Dpunity_C-_Asp.net
-# Giải thích bài tập oop
-    - Tính kế thừa: 
-        + Tính kế thừa là cho phép lớp con thừa hưởng các thuộc tính và phương thức của lớp cha mà không cần định nghĩa lại.
-        + Lớp con có thể thêm các thuộc tính hoặc phương thức mới hoặc ghi đè (override) các phương thức của lớp cha để thay đổi hành vi.
-        + Ví dụ:
-            . Các lớp con như Student và Teacher có thể kế thừa lớp cha Person và sử dụng các phương thức của lớp cha như(getName(), getAge(), setAge(), setName())
-            . Và các lớp con Student và Teacher cũng có thể sửa(override) lại phương thức toString() của lớp cha Person để tự in thông tin của mình ra.
-
-    - Tinh đóng gói:
-        + Tính đóng gói nhằm bảo vệ dữ liệu bên trong một đối tượng bằng cách hạn chế truy cập trực tiếp vào các thuộc tính (fields) và chỉ cho phép tương tác thông qua các phương thức công khai (public methods), thường là getter và setter.
-        + Sử dụng sửa đổi truy cập (Access Modifiers): private, protected, public, internal...
-        + Ví dụ:
-            . Lớp cha Person có các thuộc tính như (Name, age, role) cả 3 thuộc tính này điều dùng Access modifiers là private(chỉ cho phép truy cập trong cùng lớp) để đóng gói nó trong lớp Person.
-            . Các lớp con như Teacher và Student không thể truy cập và sửa đổi trực tiếp vào các thuộc tính trên mà phải truy cập thông qua các phương thức getter() và setter() mà lớp cho cung cấp.
-    
-    - Tính đa hình:
-        + Tính đa hình ám chỉ khả năng một phương thức hoặc toán tử có thể hoạt động khác nhau tùy thuộc vào ngữ cảnh hoặc đối tượng cụ thể.
-        + Ví dụ:
-            . Trong phương thức toString() của lớp cha Person có từ khóa virtual(từ khóa hỗ trợ giúp cho các lớp con có thể override lại phương thức này) và khi các lớp con Như Student và Teacher kế thừa lại lớp cha thì họ có thể ghi đè lên phương thức toString() kết hợp với dùng từ khóa override.
-
-    - Tính trừu tượng: 
-        + Tính trừu tượng là quá trình đơn giản hóa các chi tiết phức tạp của một hệ thống, chỉ tập trung vào những gì quan trọng và cần thiết cho người dùng, đồng thời ẩn đi các chi tiết triển khai.
-        + Ví dụ: 
-            . Trong project có 1 interface là StudentInterface trong interface có 1 phương thức trừu tượng là averageScore() không có thuộc tính hoặc logic triễn khai.
-            . Lớp Student khi implement lại interface này thì đã triển khai phương thức averageScore().
-
-
-    
+# Jwt Authentication and Authorization
+    - Jwt: Là một tiêu chuẩn mở, định nghĩa một phương thức nhỏ gọn và khép kín (compact and self-contained) để truyền tải thông tin an toàn giữa các bên dưới dạng một đối tượng JSON. Thông tin này có thể được xác minh và tin cậy vì nó đã được ký điện tử (digitally signed).
+        + Header: Một đối tượng JSON chứa metadata về token.
+            . alg (Algorithm): Thuật toán ký được sử dụng, ví dụ HS256 (HMAC-SHA256) hoặc RS256 (RSA-SHA256).
+            . typ (Type): Loại token, luôn là "JWT".
+        + Payload: Một đối tượng JSON chứa các Claims, chứa thông tin thực tế mà người dùng muốn truyền đi
+            . Registered Claims: Các claim được định nghĩa trước (ví dụ: iss - issuer, sub - subject, aud - audience, exp - expiration time).
+            . Public Claims: Các claim được định nghĩa bởi người dùng JWT nhưng cần được đăng ký để tránh xung đột.
+            . Private Claims: Các claim tùy chỉnh được định nghĩa riêng cho ứng dụng (ví dụ: role, permissions)
+        + Signature: Chữ ký điện tử được tạo ra để xác minh tính toàn vẹn và nguồn gốc của token.
+            . Nó được tính toán dựa trên Header đã mã hóa, Payload đã mã hóa, một khóa bí mật (secret key), và thuật toán được chỉ định trong alg.
+    - Authentication là quá trình xác định và xác minh danh tính của một thực thể (user, service, device). Mục tiêu của nó là trả lời câu hỏi: "Thực thể này có phải là thực thể mà nó tuyên bố không?".
+    - Authorization là quá trình xác định xem một thực thể đã được xác thực (authenticated entity) có được cấp quyền để thực hiện một hành động cụ thể hoặc truy cập một tài nguyên cụ thể hay không. Quá trình này diễn ra sau khi quá trình authentication đã thành công và nó trả lời câu hỏi: "Thực thể này có được phép làm điều này không?".
