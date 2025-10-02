@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FIwpm8JjNTQkx/033oZ490/GITsMq6YmFsM5z543+w0=",
+  "Source": "PostgresJwtApi",
+  "BasePath": "_content/PostgresJwtApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

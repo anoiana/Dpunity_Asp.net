@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "PostgresJwtApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resquestDto",
+        "Type": "PostgresJwtApi.Dtos.Resquest.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PostgresJwtApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resquestDto",
+        "Type": "PostgresJwtApi.Dtos.Resquest.LoginResquest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PostgresJwtApi.Controllers.DataController",
+    "Method": "GetAdminData",
+    "RelativePath": "api/Data/admin-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PostgresJwtApi.Controllers.DataController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Data/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
