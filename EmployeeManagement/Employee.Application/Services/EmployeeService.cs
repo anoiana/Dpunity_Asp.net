@@ -21,7 +21,7 @@ namespace EmployeeManagement.Application.Services
 
         public async Task<EmployeeDto> AddEmployeeAsync(AddEmployeeDto addEmployeeDto)
         {
-            var employee = new Employee()
+            var employee = new Employees()
             {
                 Name = addEmployeeDto.Name,
                 Mail = addEmployeeDto.Mail,

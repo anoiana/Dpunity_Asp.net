@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagement.Domain.Entities
 {
-    public class Employee
+    public class Employees
     {
         public Guid Id { get; set; }
         public required string Name { get; set; }

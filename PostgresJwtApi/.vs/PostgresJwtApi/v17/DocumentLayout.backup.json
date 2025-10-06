@@ -58,8 +58,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Controllers\\DataController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T04:37:34.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T04:37:34.44Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwCUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T03:26:44.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T03:26:44.722Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Dtos\\Resquest\\LoginResquest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T03:24:14.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T03:24:14.704Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Dtos\\Resquest\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T03:21:11.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T03:21:11.355Z"
             },
             {
               "$type": "Document",
@@ -123,12 +119,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Migrations\\20251002031452_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T03:14:53.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2025-10-02T03:14:53.098Z"
             },
             {
               "$type": "Document",
@@ -140,8 +131,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T02:55:01.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T02:55:01.539Z"
             },
             {
               "$type": "Document",
@@ -153,8 +143,7 @@
               "RelativeToolTip": "PostgresJwtApi\\Datas\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T02:58:57.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T02:58:57.04Z"
             },
             {
               "$type": "Document",
@@ -166,8 +155,11 @@
               "RelativeToolTip": "PostgresJwtApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T02:25:16.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T02:25:16.131Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

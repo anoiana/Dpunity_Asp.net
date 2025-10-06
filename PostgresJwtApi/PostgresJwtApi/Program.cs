@@ -12,7 +12,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
-    // 1. Định nghĩa Security Scheme (cách Swagger biết về JWT)
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -23,7 +22,6 @@ builder.Services.AddSwaggerGen(options =>
         Description = "Enter 'Bearer' [space] and then your token in the text input below.\n\nExample: \"Bearer 12345abcdef\""
     });
 
-    // 2. Yêu cầu Security Scheme này được áp dụng cho tất cả các endpoint
     options.AddSecurityRequirement(new OpenApiSecurityRequirement
     {
         {

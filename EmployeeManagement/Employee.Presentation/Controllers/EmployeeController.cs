@@ -3,11 +3,13 @@ using EmployeeManagement.Application.Interfacaes;
 using EmployeeManagement.Application.Services;
 using EmployeeManagement.Domain.Entities;
 using EmployeeManagement.Application.Dtos.Request;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ProductMana.Controller.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
@@ -35,6 +37,7 @@ namespace ProductMana.Controller.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddEmployee(AddEmployeeDto addEmployeeDto)
         {
             var employee = await _employeeService.AddEmployeeAsync(addEmployeeDto);
@@ -43,6 +46,7 @@ namespace ProductMana.Controller.Controllers
 
         [HttpPut]
         [Route("{id:guid}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> EditEmployee(Guid id,EditEmployeeDtocs editEmployeeDtocs)
         {
             await _employeeService.UpdateAsync(editEmployeeDtocs, id);
@@ -51,6 +55,7 @@ namespace ProductMana.Controller.Controllers
 
         [HttpDelete]
         [Route("{id:guid}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteEmployee(Guid id)
         {
             await _employeeService.DeleteEmployeeAsync(id);

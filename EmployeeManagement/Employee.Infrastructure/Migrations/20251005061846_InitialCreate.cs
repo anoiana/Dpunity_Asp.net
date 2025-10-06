@@ -25,6 +25,20 @@ namespace EmployeeManagement.Infrastructure.Migrations
                 {
                     table.PrimaryKey("PK_employees", x => x.Id);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "users",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "uuid", nullable: false),
+                    Username = table.Column<string>(type: "text", nullable: false),
+                    Passwordhash = table.Column<string>(type: "text", nullable: false),
+                    Role = table.Column<string>(type: "text", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_users", x => x.Id);
+                });
         }
 
         /// <inheritdoc />
@@ -32,6 +46,9 @@ namespace EmployeeManagement.Infrastructure.Migrations
         {
             migrationBuilder.DropTable(
                 name: "employees");
+
+            migrationBuilder.DropTable(
+                name: "users");
         }
     }
 }

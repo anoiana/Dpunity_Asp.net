@@ -9,10 +9,10 @@ namespace EmployeeManagement.Domain.Interfaces
 {
     public interface IEmployeeRepository
     {
-        Task<Employee?> GetEmployeeByIdAsync(Guid id);
-        Task<IEnumerable<Employee>> GetAllEmployeesAsync();
-        Task<Employee> AddEmployeeAsync(Employee employee);
-        Task UpdateAsync(Employee employee);
+        Task<Employees?> GetEmployeeByIdAsync(Guid id);
+        Task<IEnumerable<Employees>> GetAllEmployeesAsync();
+        Task<Employees> AddEmployeeAsync(Employees employee);
+        Task UpdateAsync(Employees employee);
         Task DeleteEmployeeAsync(Guid id);
     }
 }

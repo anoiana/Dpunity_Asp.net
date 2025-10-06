@@ -12,6 +12,7 @@ namespace EmployeeManagement.Infrastructure.Datas
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) 
         {}
-        public DbSet<Employee> employees { get; set; }
+        public DbSet<Employees> employees { get; set; }
+        public DbSet<User> users { get; set; }
     }
 }

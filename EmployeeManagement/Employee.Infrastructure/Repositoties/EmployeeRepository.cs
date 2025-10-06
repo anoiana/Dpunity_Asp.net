@@ -18,7 +18,7 @@ namespace EmployeeManagement.Infrastructure.Repositories
             _context = context;
         }
 
-        public async Task<Employee> AddEmployeeAsync(Employee employee)
+        public async Task<Employees> AddEmployeeAsync(Employees employee)
         {
             await _context.employees.AddAsync(employee);
             await _context.SaveChangesAsync();
@@ -37,13 +37,13 @@ namespace EmployeeManagement.Infrastructure.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<Employee>> GetAllEmployeesAsync()
+        public async Task<IEnumerable<Employees>> GetAllEmployeesAsync()
         {
             var employee = await _context.employees.ToListAsync();
             return employee;
         }
 
-        public async Task<Employee?> GetEmployeeByIdAsync(Guid id)
+        public async Task<Employees?> GetEmployeeByIdAsync(Guid id)
         {
             var employee = await _context.employees.FindAsync(id);
             if (employee is null)
@@ -53,9 +53,9 @@ namespace EmployeeManagement.Infrastructure.Repositories
             return employee;
         }
 
-        public async Task UpdateAsync(Employee employee)
+        public async Task UpdateAsync(Employees employee)
         {
-            var e = new Employee()
+            var e = new Employees()
             {
                 Name = employee.Name,
                 Mail = employee.Mail,
