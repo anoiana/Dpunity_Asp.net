@@ -130,8 +130,7 @@
               "RelativeToolTip": "Employee.Presentation\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:46.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:46.979Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "Employee.Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:30.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:30.099Z"
             },
             {
               "$type": "Document",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "Employee.Domain\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:29.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:29.081Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "Employee.Domain\\Entities\\Employees.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:24.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:24.45Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "Employee.Application\\Services\\EmployeeService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:13.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:13.179Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "Employee.Presentation\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:12:37.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:12:37.136Z"
             },
             {
               "$type": "Document",
@@ -221,8 +215,7 @@
               "RelativeToolTip": "Employee.Application\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:10.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:10.489Z"
             },
             {
               "$type": "Document",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "Employee.Infrastructure\\Datas\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T09:40:53.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T09:40:53.383Z"
             },
             {
               "$type": "Document",
@@ -247,8 +239,7 @@
               "RelativeToolTip": "Employee.Infrastructure\\Migrations\\20251005061846_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:18:46.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:18:46.796Z"
             },
             {
               "$type": "Document",
@@ -260,8 +251,7 @@
               "RelativeToolTip": "Employee.Application\\Interfaces\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:09.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:09.217Z"
             },
             {
               "$type": "Document",
@@ -273,8 +263,7 @@
               "RelativeToolTip": "Employee.Application\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:08.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:08.192Z"
             },
             {
               "$type": "Document",
@@ -286,8 +275,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Response\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:05.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:05.688Z"
             },
             {
               "$type": "Document",
@@ -299,8 +287,7 @@
               "RelativeToolTip": "Employee.Application\\Services\\TokenService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:07:25.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:07:25.937Z"
             },
             {
               "$type": "Document",
@@ -312,8 +299,7 @@
               "RelativeToolTip": "Employee.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:09:07.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:09:07.966Z"
             },
             {
               "$type": "Document",
@@ -325,8 +311,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Response\\LoginResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:04.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:04.841Z"
             },
             {
               "$type": "Document",
@@ -338,8 +323,7 @@
               "RelativeToolTip": "Employee.Application\\Services\\UserService.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:10:15.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:10:15.098Z"
             },
             {
               "$type": "Document",
@@ -351,8 +335,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Response\\EmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:03.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:03.985Z"
             },
             {
               "$type": "Document",
@@ -364,8 +347,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Request\\RegisterRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:01.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:01.955Z"
             },
             {
               "$type": "Document",
@@ -377,8 +359,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Request\\LoginRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:24:00.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:24:00.783Z"
             },
             {
               "$type": "Document",
@@ -390,8 +371,7 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Request\\EditEmployeeDtocs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:23:59.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:23:59.873Z"
             },
             {
               "$type": "Document",
@@ -403,21 +383,19 @@
               "RelativeToolTip": "Employee.Application\\Dtos\\Request\\AddEmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T08:23:58.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:23:58.613Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "EmployeeManagement.Application",
+              "Title": "EmployeeManagement.Application.csproj",
               "DocumentMoniker": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\EmployeeManagement.Application.csproj",
               "RelativeDocumentMoniker": "Employee.Application\\EmployeeManagement.Application.csproj",
               "ToolTip": "E:\\Dpunity_c#_\\Dpunity_C-_Asp.net\\EmployeeManagement\\Employee.Application\\EmployeeManagement.Application.csproj",
               "RelativeToolTip": "Employee.Application\\EmployeeManagement.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T08:23:53.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:23:53.705Z"
             },
             {
               "$type": "Document",
