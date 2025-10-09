@@ -1,0 +1,15 @@
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.deps.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.runtimeconfig.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.csproj.AssemblyReference.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.AssemblyInfoInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.AssemblyInfo.cs
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.sourcelink.json
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\refint\ProductManagement.Domain.dll
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.pdb
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.genruntimeconfig.cache
+E:\Dpunity_c#_\Dpunity_C-_Asp.net\ProductManagement\ProductManagement.Domain\obj\Debug\net8.0\ref\ProductManagement.Domain.dll

@@ -28,3 +28,68 @@
     - Mối quan hệ với Middleware: Khái niệm Authorization cũng được hiện thực hóa bằng một middleware cụ thể: app.UseAuthorization(). Middleware này sẽ lấy danh tính từ HttpContext.User (do Authentication middleware tạo ra) và đối chiếu với các quy tắc được định nghĩa cho endpoint đó (ví dụ: attribute [Authorize(Roles = "Admin")]). Nếu không đủ quyền, nó sẽ từ chối request (trả về lỗi 403 Forbidden).
 
 
+# CORS, SOP
+    - Nguồn gốc (Origin) được định nghĩa bởi 3 thành phần:
+        + Scheme (giao thức): http, https
+        + Host (tên miền): example.com, localhost
+        + Port (cổng): :80, :443, :5000
+
+    - Same-Origine nếu cả 3 thành phần này giống nhau chúng được xem là cùng nguồn gốc.
+    
+    - Same-Origin Policy (SOP) là một tính năng bảo mật cực kỳ quan trọng được tích hợp sẵn trong tất cả các trình duyệt web hiện đại. Quy tắc cốt lõi của nó là: Một đoạn mã JavaScript chạy trên một trang web (ví dụ: https://my-page.com) chỉ được phép truy cập tài nguyên (dữ liệu, DOM) từ cùng một nguồn gốc (https://my-page.com). Nó bị ngăn chặn truy cập tài nguyên từ một nguồn gốc khác (ví dụ: https://api.another-site.com).
+
+    - CORS (Cross-Origin Resource Sharing - Chia sẻ tài nguyên chéo nguồn gốc) là một cơ chế bảo mật, dựa trên các HTTP Header, cho phép một server chỉ định bất kỳ nguồn gốc (origin) nào khác (ngoài chính nó) được phép tải và tương tác với tài nguyên của nó.
+
+    - Ví dụ: Trong kiến trúc web hiện đại, việc tách biệt Frontend và Backend là rất phổ biến:
+        + Frontend: Một ứng dụng Single-Page Application (SPA) viết bằng React, Angular, Vue.js, chạy trên một tên miền như https://my-awesome-app.com.
+        + Backend: Một Web API viết bằng ASP.NET Core, Node.js, Java, chạy trên một tên miền khác như https://api.my-awesome-app.com.
+        + Khi ứng dụng Frontend (https://my-awesome-app.com) cần lấy dữ liệu, nó sẽ phải gọi đến API (https://api.my-awesome-app.com). Vì hai tên miền này khác nhau, đây là một yêu cầu chéo nguồn gốc (cross-origin).
+        + Nếu không có CORS, trình duyệt sẽ áp dụng SOP và chặn yêu cầu này. Frontend sẽ không bao giờ nhận được dữ liệu, và ứng dụng không thể hoạt động.
+
+    - CORS ra đời để giải quyết chính xác vấn đề này, cho phép các ứng dụng web hiện đại, phân tán có thể giao tiếp với nhau một cách an toàn và có kiểm soát.
+
+    - Luồng CORS Tổng Quát:
+        + Bước 1: JavaScript Khởi tạo Yêu cầu
+            . Mã JavaScript trong ứng dụng của bạn (ví dụ: chạy trên https://my-frontend.com) thực hiện một yêu cầu mạng đến một API ở một nguồn gốc khác (ví dụ: https://api.my-backend.com).
+
+        + Bước 2: Trình duyệt Can thiệp và Phân loại Yêu cầu
+            . Trình duyệt chặn yêu cầu lại một chút và tự hỏi: "Yêu cầu này có 'đơn giản' hay 'phức tạp'?"
+                "Đơn giản": Nếu là GET, POST với dữ liệu thông thường.
+                "Phức tạp": Nếu là PUT, DELETE, hoặc có các thông tin "nhạy cảm" như Authorization header hoặc Content-Type: application/json.
+
+            . Nhánh A: Nếu là Yêu cầu Đơn giản (Simple Request)
+                . Bước A1: Trình duyệt Gửi Yêu cầu với Header Origin
+                    Trình duyệt gửi thẳng yêu cầu đến server API. Nó tự động đính kèm một header Origin, ghi rõ nó đến từ đâu (GET đến /data với header Origin: https://my-frontend.com)
+                . Bước A2: Server Kiểm tra và Phản hồi.
+                    Server API nhận được yêu cầu.
+                    Nó nhìn vào header Origin và kiểm tra trong (cấu hình CORS) của mình xem https://my-frontend.com có được phép vào không.
+                    Nếu được phép: Server xử lý yêu cầu và trả về dữ liệu. Quan trọng nhất, nó đính kèm một header Access-Control-Allow-Origin trong phản hồi.
+                    Server trả lời: Dữ liệu JSON kèm header Access-Control-Allow-Origin: https://my-frontend.com.
+                    Nếu không được phép: Server có thể trả về lỗi, hoặc không đính kèm "Access-Control-Allow-Origin".
+                . Bước A3: Trình duyệt Kiểm tra
+                    Trình duyệt nhận được phản hồi.
+                    Nó kiểm tra xem có Access-Control-Allow-Origin không và nó có khớp với địa chỉ của mình không.
+                    Nếu khớp: Cuộc gọi thành công! Trình duyệt giao dữ liệu cho JavaScript.
+                    Nếu không khớp: TRUY CẬP BỊ TỪ CHỐI! Trình duyệt hủy bỏ dữ liệu và báo lỗi CORS trên Console. JavaScript không nhận được gì cả.
+
+            . Nhánh B: Nếu là Yêu cầu Phức tạp (Preflight Request)
+                . Bước B1: Trình duyệt Gửi Yêu cầu "Thăm dò" (Preflight)
+                    Trước khi gửi yêu cầu thật, trình duyệt gửi một yêu cầu "thăm dò" bằng phương thức OPTIONS.
+                    Trình duyệt gửi: Yêu cầu OPTIONS với các header Origin, Access-Control-Request-Method, Access-Control-Request-Headers.
+                . Bước B2: Server Phản hồi Yêu cầu "Thăm dò"
+                    Server nhận yêu cầu OPTIONS và chỉ kiểm tra (cấu hình CORS) , không thưc hiện liền các yêu cầu http request.
+                    Nếu được phép: Server trả lời "OK, ổn cả!" bằng cách gửi lại một danh sách các quyền hạn.
+                    Nếu không được phép: Server sẽ im lặng hoặc trả lời không có quyền.
+                . Bước B3: Trình duyệt Đánh giá và Quyết định
+                    Trình duyệt nhận được phản hồi "thăm dò".
+                    Nếu phản hồi cho phép: Tuyệt vời! Trình duyệt bây giờ mới gửi yêu cầu HTTP thật sự. Luồng tiếp theo sẽ diễn ra y hệt như Nhánh A (Simpler request) (từ bước A1 đến A3).
+                    Nếu phản hồi không cho phép: KẾ HOẠCH BỊ HỦY BỎ! Yêu cầu HTTP thật sẽ không bao giờ được gửi. Trình duyệt báo lỗi CORS trên Console.
+
+
+                
+             
+
+
+
+
+
